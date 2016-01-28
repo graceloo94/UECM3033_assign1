@@ -47,6 +47,18 @@ $$\int_0^{1} {(ln{x})^2}dx = {2}.$$
 19x_1+20x_2+10x_3+8x_4+x_5+5x_6+3x_7+x_8+6x_9+2x_{10} &= 518. \end{align}
 
 
+
+Solution : \begin{align} x_1 = 2\\
+x_2= 4\\
+x_3 = 6\\
+x_4 = 8\\
+x_5 = 10\\
+x_6 = 12\\
+x_7 = 14\\
+x_8 = 16\\
+x_9 = 18\\
+x_{10 }= 20\end{align}
+
 -----------------------------------
 
-<sup>last modified: 28 Jan 2016, 3.45pm </sup>
+<sup>last modified: 28 Jan 2016, 4.07pm </sup>

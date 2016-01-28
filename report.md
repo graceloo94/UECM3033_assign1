@@ -32,7 +32,7 @@ In this section, please report:
 
 Hexadecimal representation of 1205887 is 0x12667f
 
- Write down the definite integrals that you have chosen.
+2. Write down the definite integrals that you have chosen.
 
 $$\int_0^{1} {(ln{x})^2}dx = {2}.$$
 

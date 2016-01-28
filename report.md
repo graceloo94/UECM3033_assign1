@@ -37,7 +37,6 @@ Hexadecimal representation of 1205887 is 0x12667f
 $$\int_0^{1} {(ln{x})^2}dx = {2}.$$
 
 3. Write down your system of 10 linear equations.
-
 \begin{align}  x_1+x_2+x_3+2x_4+x_5+2x_6+3x_7+x_8+2x_9+x_{10} &= 176. \\
 3x_1+4x_2+2x_3+5x_4+2x_5+2x_6+3x_7+2x_8+3x_9+2x_{10} &= 286.\\
 5x_1+6x_2+3x_3+8x_4+2x_5+2x_6+5x_7+5x_8+4x_9+4x_{10} &= 462. \\
